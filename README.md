@@ -11,14 +11,5 @@ In today's digital age, the internet is a treasure trove of information and reso
 <li>Search for a movie ,get its plot and rating</li>
 </ul>  
 <hr>
-<h3><b>HOW TO VIEW MY PROJECT</b>?</h3>
-<ol>
-  <li>Open my profile</li>
-  <li>Go to  <b>"Repositories"</b></li>
-  <li>Select   <i><b>"Web-Scraper"</b></i>   Repository</li>
-  <li>Change the branch from <i><b>"Main"</b></i>  to  <i><b>"Master"</b></i> </li>
-  <li>Download <b><i>"main.py"</i></b> file and run it on your system after installing required modules from python library.</li>
-</ol>
-<hr>
 <h3><b>LANGUAGES USED-</b></h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
