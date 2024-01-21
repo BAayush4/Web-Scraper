@@ -9,6 +9,8 @@ In today's digital age, the internet is a treasure trove of information and reso
 <li>Image Extraction</li>
 <li>Extracting contents of any dropdown menu</li>
 <li>Search for a movie ,get its plot and rating</li>
+<li>Save contents of a website inside a text file</li> 
+<li>E-Mail the contents of a website</li>  
 </ul>  
 <hr>
 <h3><b>LANGUAGES USED-</b></h3>
